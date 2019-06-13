@@ -1,0 +1,13 @@
+.no-border > .MuiInput-underline:before,
+.no-border > .MuiInput-underline:after {
+  border: none;
+  content: none !important;
+}
+
+.tags-label {
+  margin-top: 20px !important;
+}
+
+.add-gutter {
+  margin: 20px !important;
+}
